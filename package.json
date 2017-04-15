@@ -1,0 +1,13 @@
+{
+  "name": "4Pluri",
+  "version": "1.0.0",
+  "author": "Britt",
+  "description": "Test app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
